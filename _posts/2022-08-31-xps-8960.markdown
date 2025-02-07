@@ -4,7 +4,7 @@ modal-id: 4
 date: 2022-08-31
 img: xps_8960.jpg
 alt: image-alt
-project-date: January 2023
+project-date: August 2022
 client: Internal (Dell)
 category: New Product Launch
 description: WIP.
