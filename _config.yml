@@ -1,29 +1,34 @@
 # Site settings
 title: "Aron Morando"
 email: "morando.aron@gmail.com"
-url: 
+url: ""  # Add a URL (e.g., "https://aronmora.github.io")
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "PMP® - PMI-ACP® - PSM® - PSPO®
+skills: "PMP® - PMI-ACP® - PSM® - PSPO®"  # Fixed: Added closing quote
+meta_author: "Morando Aron"
 
 # Google webmaster tools
-google_verify:
+google_verify: ""  # Add a value (e.g., "your-google-verify-code")
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+bing_verify: ""  # Add a value (e.g., "your-bing-verify-code")
 
 # Contact form:
-# - static : pass through formspree.io to validate email sending
+# - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
 contact: static
 
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname  # Replace with your actual Disqus shortname
+
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: e0d5d1 #80B3FF
-  primary-rgb: "224,213,209" #"128,179,255"
-  secondary: 595959 #FD6E8A
-  secondary-dark: 595959 #A2122F
+  primary: e0d5d1  #80B3FF
+  primary-rgb: "224,213,209"  #"128,179,255"
+  secondary: 595959  #FD6E8A
+  secondary-dark: 595959  #A2122F
 
 # Footer settings
 footer:
@@ -36,11 +41,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 
-  - line: 
+  - line: ""  # Add a value (e.g., "123 Main St")
+  - line: ""  # Add a value (e.g., "City, Country")
 
 # Credits content
-credits: 
+credits: ""  # Add a value (e.g., "© 2023 Aron Morando")
 
 # Build settings
 markdown: kramdown
@@ -52,4 +57,4 @@ defaults:
       path: ""
       type: "posts"
     values:
-      permalink: ""
+      permalink: ""  # Add a value (e.g., "/posts/:year/:month/:day/:title/")
