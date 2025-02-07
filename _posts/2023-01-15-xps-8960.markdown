@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2023-01-15
-img: xps_8960.png
+img: xps_8960.jpg
 alt: image-alt
 project-date: January 2023
 client: Start Bootstrap
