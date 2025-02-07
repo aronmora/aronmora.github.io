@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 6
+date: 2019-06-15
+img: xps_7390_2in1_.png
+alt: image-alt
+project-date: June 2019
+client: Internal (Dell)
+category: New Product Launch
+description: My very first NPL.
+---
