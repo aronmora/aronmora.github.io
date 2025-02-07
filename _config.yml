@@ -25,10 +25,10 @@ disqus_shortname: myshortname  # Replace with your actual Disqus shortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 595959  #80B3FF
+  primary: 5c8a8a  #80B3FF
   primary-rgb: "89,89,89"  #"128,179,255"
-  secondary: 5c8a8a  #FD6E8A
-  secondary-dark: 5c8a8a  #A2122F
+  secondary: 595959  #FD6E8A
+  secondary-dark: 595959  #A2122F
 
 # Footer settings
 footer:
