@@ -7,5 +7,5 @@ alt: image-alt
 project-date: May 2020
 client: Internal (Dell)
 category: New Product Launch
-description: First 17" premium Dell Notebook after more than a decade.
+description: The XPS 17 9700 was Dell's first 17-inch laptop in years. It featured a near-borderless 16:10 display, and an innovative dual-fan vapor chamber cooling system.
 ---
