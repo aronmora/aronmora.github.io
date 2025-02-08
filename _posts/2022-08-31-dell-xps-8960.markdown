@@ -7,5 +7,5 @@ alt: image-alt
 project-date: August 2022
 client: Internal (Dell)
 category: New Product Launch
-description: WIP.
+description: The XPS 8960 continued Dell’s tradition of clean, minimalist designs for its non-gaming tower desktops. The platform’s standout feature was its tool-less upgradability, which simplified component swaps and enhanced user accessibility, for both professionals and non-technical users.
 ---
