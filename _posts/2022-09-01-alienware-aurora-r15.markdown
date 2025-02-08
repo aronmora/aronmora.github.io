@@ -7,5 +7,5 @@ alt: image-alt
 project-date: September 2022
 client: Internal (Alienware)
 category: New Product Launch
-description: The Aurora R15 introduced a revamped cooling system with larger fans and improved airflow, addressing the thermal issues that plagued its predecessors. Also, the R15 expanded Alienware’s RGB lighting options, offering more granular control over aesthetics compared to competitors.
+description: The Aurora R15 introduced a revamped cooling system with larger fans and improved airflow, addressing the thermal issues that plagued its predecessors. The R15 also expanded Alienware’s RGB lighting options, offering more granular control over aesthetics compared to competitors.
 ---
