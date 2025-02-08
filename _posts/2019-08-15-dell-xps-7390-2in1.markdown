@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 6
+date: 2019-08-15
+img: xps_7390_2in1.png
+alt: image-alt
+project-date: August 2019
+client: Internal (Dell)
+category: New Product Launch
+description: My very first NPL (new product launch). The XPS 7390 2-in-1 redefined ultraportable convertibles with its 4K 16:10 display (compared to the traditional 16:9 displays used by competitors) and premium materials that delivered both durability and a sleek aesthetic.
+---
